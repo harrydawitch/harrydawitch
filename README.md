@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harrydawitch
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Computer Science especially on Artificial Intelligence field
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
